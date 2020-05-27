@@ -1,3 +1,3 @@
 module.exports = {
-    MongoURI: 'mongodb+srv://tranhung123:tuntun123@tranhung-prex9.mongodb.net/test?retryWrites=true&w=majority',
+    MongoURI: '`YOUR_MONGO_ATLAS_KEY_CONNECTION`',
 }
